@@ -4,9 +4,9 @@
   "projectVersion": 1,
   "AppIdentifier": "net.igetit.easteregg",
   "DisplayName": "Beacon Hunt",
-  "Author": "Ladeez First Media",
+  "Author": "",
   "Description": "Hunt for Estimote beacons",
-  "BundleVersion": "1.0",
+  "BundleVersion": "1.1",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
@@ -38,9 +38,8 @@
   "WP8WindowsPublisherName": "CN=Telerik",
   "WP8PackageIdentityName": "1234Telerik.com.ladeezfirstmedia.hunt",
   "CorePlugins": [
-    "com.phonegap.plugins.PushPlugin@2.5.1",
+    "com.phonegap.plugins.PushPlugin@2.5.7",
     "com.telerik.plugin.eqatecanalytics",
-    "nl.x-services.plugins.socialsharing@4.3.13",
     "org.apache.cordova.battery-status",
     "org.apache.cordova.console",
     "org.apache.cordova.contacts",
